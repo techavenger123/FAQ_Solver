@@ -1,0 +1,8 @@
+gradio>=4.0.0
+transformers>=4.51.3,<=5.5.0
+peft>=0.10.0
+torch>=2.0.0
+accelerate>=0.27.0
+bitsandbytes>=0.43.0
+sentencepiece
+spaces
