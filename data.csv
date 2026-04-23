@@ -1,4 +1,4 @@
-ï»¿Question,Answer
+question,answer
 What is the highest package offered in the placement data?,The highest package offered is 12 LPA by rtCamp.
 Which company offered the highest package and for which position?,rtCamp offered the highest package of 12 LPA for a software role.
 How many students were placed in Category 1?,Three students were placed in Category 1.
@@ -17,10 +17,10 @@ How many students received offers in the hardware domain?,Four students were pla
 "What is the role offered by eInfochips, and what was the package?",eInfochips offered the role of ASIC Engineer with a package of 4 LPA.
 How many students were placed with packages above 8 LPA?,Five students were placed with packages above 8 LPA.
 "Who received an offer for the role of ASIC Engineer, and which company hired them?","Dhruvkumar Vyas, Aryavardhan Sharma, Arpit Agrawat, and Samir Jivani were hired by eInfochips for the role of ASIC Engineer."
-"Which companies hired web developers, and what were their package ranges?","Gateway Group of Companies and ETECH Energy Consultancy Pvt Ltd hired web developers with package ranges of 4â€“8 LPA and 7.2â€“8.4 LPA, respectively."
+"Which companies hired web developers, and what were their package ranges?","Gateway Group of Companies and ETECH Energy Consultancy Pvt Ltd hired web developers with package ranges of 4–8 LPA and 7.2–8.4 LPA, respectively."
 What is the domain of the placement category with the highest median package?,The software domain has the highest median package of 5.5 LPA.
 "Which student received the second-highest package, and from which company?",Dev Mehta received the second-highest package of 12 LPA from rtCamp.
-"Which company offered the widest package range, and to whom?",Gateway Group of Companies offered the widest package range (4â€“8 LPA) to multiple students.
+"Which company offered the widest package range, and to whom?",Gateway Group of Companies offered the widest package range (4–8 LPA) to multiple students.
 What is the most common role offered in these placements?,The most common role offered was Software Developer.
 "Which student has the unique role of 'Trainee Software,' and what was their package?",Meet Kalathiya has the role of 'Trainee Software' with a package of 6 LPA.
 "What is the placement category of Bhakti Sukhadiya, and what was her package?",Bhakti Sukhadiya was placed in Category 3 with a package of 4 LPA.
@@ -37,11 +37,11 @@ How many students were offered packages of exactly 6 LPA?,Seven students receive
 Which student has the highest package among the Category 3 placements?,Venisha Parmar received the highest package of 8 LPA among Category 3 placements.
 "Who was hired by Arsenal Tech, and what was their package?",Divyaraj Chudasama was hired by Arsenal Tech with a package of 8 LPA.
 What is the package range offered to students placed in Cat 2?,The package range for Cat 2 placements is 3.6 to 8.4 LPA.
-"Which student was placed in two companies simultaneously, and what were their roles?",Mustafa Bharmal was placed in two companies simultaneouslyâ€”rtCamp and Simform Solution Pvt Ltd.
+"Which student was placed in two companies simultaneously, and what were their roles?",Mustafa Bharmal was placed in two companies simultaneously—rtCamp and Simform Solution Pvt Ltd.
 What is the average package for students placed in Category 2?,The average package for Category 2 students is 5.59 LPA.
 Which company offered the role of Web Developer with a package of 8 LPA?,ETECH Energy Consultancy Pvt Ltd offered a Web Developer role with a package of 8 LPA.
 What is the total number of students placed in the software domain?,A total of 33 students were placed in the software domain.
-Which company hired students for the DevOps role at multiple package ranges?,STP Web hired students for DevOps roles at package ranges of 4â€“6 LPA.
+Which company hired students for the DevOps role at multiple package ranges?,STP Web hired students for DevOps roles at package ranges of 4–6 LPA.
 "Who was hired by Azilen Technologies, and what was their package?",Vedant Bharad was hired by Azilen Technologies with a package of 5.5 LPA.
 How many companies offered packages of 5 LPA to students?,Six companies offered packages of 5 LPA to students.
 What is the total number of students who received packages below 4 LPA?,Ten students received packages below 4 LPA.
@@ -131,7 +131,7 @@ How many students received a package of 6 LPA from Evision IT Solutions?,Five st
 What does the Department of ICT welcome?,The Department of ICT welcomes the Academic Audit Committee.
 What is the date of the presentation?,28th September 2024.
 What are the outlined topics?,"Vision and Mission, Student Faculty Information, Curriculum Design, Teaching-Learning Process, Outcome-based assessment methods, Research and Development, International Exposure, Laboratory Facilities, Student Clubs, Industries Liaison, Outcomes, Awards/Recognitions, SWOC analysis, and Departmental Goals."
-What is the vision of the department?,"To build studentsâ€™ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
+What is the vision of the department?,"To build students’ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
 What are the missions of the department?,"To develop the ability to look at problems through project-based learning.To provide a blended teaching and assessment approach to enhance the learning experience.
 To provide exposure to various domains to help students choose their interests.
 Continuous interaction with industries to prepare students to be industry-ready."
@@ -159,13 +159,13 @@ What topics were covered in expert talks?,"Software Project Management, Deep Lea
 Which companies were visited during industry visits?,"Zuru Tech, ISRO, SEMICON, Akashwani, e-infochips."
 What are the methods of outcome-based assessment?,"Open book tests, Projects, Case studies, Blog writing, Quizzes, Practical exams, Continuous evaluation, Research paper reviews, Assignments, Written tests, MOOC courses."
 Name a research article and its journal.,Title: AIoT-Based Smart Stick for Visually Impaired Person. Journal: IEEE Transactions on Instrumentation and Measurement.
-What is the journalâ€™s impact factor for the AIoT-based article?,Impact factor: 5.336.
+What is the journal’s impact factor for the AIoT-based article?,Impact factor: 5.336.
 Which faculty received funding from the European Union?,Dr. Arjav Bavarva for the ERASMUS+ program.
 What is the highest package received by a 2020-2024 graduate?,The highest package received was 18 LPA.
 Who received the package from Amazon?,Nipun Parekh.
 What percentage of 2023 graduates pursued entrepreneurship?,15%.
 How does project-based learning benefit students?,It helps students develop problem-solving skills and enhances their ability to work on real-world challenges.
-What is the departmentâ€™s approach to blended teaching?,The department combines traditional classroom teaching with online resources and hands-on activities.
+What is the department’s approach to blended teaching?,The department combines traditional classroom teaching with online resources and hands-on activities.
 How does the department ensure flexibility in subject selection?,By offering a choice-based curriculum where students can select subjects of their interest.
 What are examples of industry-ready courses?,"Courses on Cloud Computing, IoT, and VLSI Design are examples of industry-ready courses."
 What is the role of stakeholder input in curriculum design?,"Stakeholder inputs help align the curriculum with industry requirements, technological trends, and regional to global needs."
@@ -173,7 +173,7 @@ How does the department foster skill development?,"Through value-added courses, 
 Which domain specialization options are discussed in BOS meetings?,"Options like AI/ML, Data Analytics, and Communication Engineering are commonly discussed."
 What is the importance of MOOC credits?,MOOC credits provide students with the opportunity to learn from global platforms and enhance their knowledge base.
 How does learning by doing enhance student outcomes?,"It allows students to apply theoretical knowledge practically, making the learning process more engaging and effective."
-What is the purpose of long-hour coding sessions?,To improve studentsâ€™ proficiency in programming and problem-solving by working on extensive real-time problems.
+What is the purpose of long-hour coding sessions?,To improve students’ proficiency in programming and problem-solving by working on extensive real-time problems.
 What are examples of outcome-based exam patterns?,"Open book tests, project evaluations, and research paper reviews are part of outcome-based exam patterns."
 How are internships structured in the curriculum?,"Internships are offered after the 4th, 6th, and during the 8th semester to provide industry exposure."
 What are some recent advancements discussed in expert talks?,Topics like AI in governance and advancements in Computer Vision and Image Processing are discussed.
@@ -185,8 +185,8 @@ What are examples of technical skills promoted by student clubs?,"Skills like ci
 What are the objectives of the Competitive Programming Club?,"To improve algorithmic optimization, data structures proficiency, and preparation for coding competitions."
 What is the purpose of poster presentations?,"To allow students to showcase their project work, research, and innovative ideas in a concise and visual manner."
 What is the SWOC analysis?,"SWOC analysis identifies the Strengths, Weaknesses, Opportunities, and Challenges of the department."
-What are the departmentâ€™s short-term goals?,Creating a mindset for project-to-product development and providing international placement opportunities are among the short-term goals.
-What are the departmentâ€™s long-term goals?,Offering integrated programs and providing industrial consultancy solutions are some of the long-term goals.
+What are the department’s short-term goals?,Creating a mindset for project-to-product development and providing international placement opportunities are among the short-term goals.
+What are the department’s long-term goals?,Offering integrated programs and providing industrial consultancy solutions are some of the long-term goals.
 What are the key strengths of the department?,"Teaching-learning processes, strong placement records, and overall student development are key strengths."
 What is an identified weakness of the department?,Lack of awareness among higher secondary students about the program is a noted weakness.
 What are some awards won by the department?,Awards include leadership in community project-based learning and recognitions in state-level hackathons.
@@ -214,10 +214,10 @@ What is the focus of outbound training activities?,"To enhance teamwork, communi
 Which international research internships have been pursued by students?,"Research internships at Simon Fraser University, University of British Columbia, and Lakehead University are examples."
 What is the significance of professional ethics courses?,They prepare students to handle ethical dilemmas in their professional careers and instill a sense of responsibility.
 Which department goal focuses on consultancy work?,The long-term goal of providing solutions to industrial problems and offering consultancy services focuses on this area.
-What is the departmentâ€™s approach to mentoring startups?,By providing faculty mentorship and facilitating funding through initiatives like SSIP and NewGen IEDC.
+What is the department’s approach to mentoring startups?,By providing faculty mentorship and facilitating funding through initiatives like SSIP and NewGen IEDC.
 Which workshops were organized in 2022-23?,Workshops on HTTP and Web API with POSTMAN and Cloud Computing with cloud services were organized.
 What is the purpose of mock interviews?,To prepare students for real-world job interviews by simulating interview scenarios and providing constructive feedback.
-What cultural events are celebrated by the department?,"Events like Rangoli Fest, Kite Flying, and Engineerâ€™s Day celebrations are part of the cultural activities."
+What cultural events are celebrated by the department?,"Events like Rangoli Fest, Kite Flying, and Engineer’s Day celebrations are part of the cultural activities."
 How does the department encourage interdisciplinary learning?,"By offering MOOC courses and subjects that integrate concepts from different domains, like AI and Data Analytics."
 What were the top achievements in hackathons?,Achievements include securing 2nd rank in the MYOSA national contest and cash prizes in the Azadi Ka Amrit Mahotsav hackathon.
 Which student fair focuses on Java programming?,The Java Fair is organized to showcase student projects and skills in Java programming.
@@ -240,7 +240,7 @@ How does the department prepare students for global markets?,"Through internatio
 What are examples of ethical case studies in assessments?,"Topics include privacy in AI, ethical hacking scenarios, and data protection challenges."
 Which tools are introduced in the VLSI lab?,"Tools like Verilog simulators, FPGA boards, and logic analyzers are introduced."
 What are the learning outcomes of the Project Lab?,"Outcomes include enhanced project management, prototyping, and team collaboration skills."
-What funding opportunities are available for student startups?,Funding up to â‚¹2.5 Lakhs is available through initiatives like SSIP and NewGen IEDC.
+What funding opportunities are available for student startups?,Funding up to ?2.5 Lakhs is available through initiatives like SSIP and NewGen IEDC.
 Which workshops focus on cloud services?,Workshops on Cloud Computing with AWS and other cloud services are conducted.
 How does the department ensure continuous evaluation?,"Through assignments, quizzes, practicals, and periodic feedback sessions."
 What kind of projects are showcased in fairs?,"Projects in areas like IoT, AI, and application development are showcased."
@@ -269,7 +269,7 @@ How does the department prepare students for global markets?,"Through internatio
 What are examples of ethical case studies in assessments?,"Topics include privacy in AI, ethical hacking scenarios, and data protection challenges."
 Which tools are introduced in the VLSI lab?,"Tools like Verilog simulators, FPGA boards, and logic analyzers are introduced."
 What are the learning outcomes of the Project Lab?,"Outcomes include enhanced project management, prototyping, and team collaboration skills."
-What funding opportunities are available for student startups?,Funding up to â‚¹2.5 Lakhs is available through initiatives like SSIP and NewGen IEDC.
+What funding opportunities are available for student startups?,Funding up to ?2.5 Lakhs is available through initiatives like SSIP and NewGen IEDC.
 Which workshops focus on cloud services?,Workshops on Cloud Computing with AWS and other cloud services are conducted.
 How does the department ensure continuous evaluation?,"Through assignments, quizzes, practicals, and periodic feedback sessions."
 What kind of projects are showcased in fairs?,"Projects in areas like IoT, AI, and application development are showcased."
@@ -280,15 +280,15 @@ What is the focus of seminars on emerging technologies?,"The focus includes AI g
 Which programs aim at confidence building?,"Mock interviews, panel discussions, and outbound training programs focus on building confidence."
 How does the department align with regional needs?,"By incorporating region-specific case studies, collaborations, and courses into the curriculum."
 What career paths do ICT graduates pursue?,"Graduates pursue careers in software development, cloud security, AI, and VLSI design."
-What is the vision of the Department of Information and Communication Technology (ICT)?,"To build studentsâ€™ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
+What is the vision of the Department of Information and Communication Technology (ICT)?,"To build students’ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
 What is the mission of the ICT department?,"The mission includes project-based learning, blended teaching and assessment, exposure to various domains, and industry interaction to make students industry-ready."
 What are the core subjects in Semester 1 of the B.Tech ICT program?,"Differential and Integral Calculus, Electrical Circuits, Basics of Electronics Engineering, Reading and Writing for Technology, Introduction to Computer Programming, Foundation Skills in Sensor Interfacing, ICT Workshop."
 How many assistant and associate professors are there in the ICT department?,The department has 14 assistant professors and 4 associate professors.
-What are the credit requirements for B.Tech batches before and after 2021?,2017â€“2020 Entry Batch: 180â€“183 credits; 2021 onwards Entry Batch: 160â€“163 credits.
+What are the credit requirements for B.Tech batches before and after 2021?,2017–2020 Entry Batch: 180–183 credits; 2021 onwards Entry Batch: 160–163 credits.
 What skills are targeted by the Data Science Club?,"Data Visualization, Statistical Analysis, R, Python, SQL, and Data Mining."
 What is the scope of ICT Engineers?,"Fields include Embedded Hardware/Software, VLSI Design, IoT, AI/ML, Data Analytics, Cloud Computing, DevOps, Networks and Security, and Software Development."
 What are the international research internship opportunities mentioned in the document?,"Students had internships with professors from institutions such as University of British Columbia, Simon Fraser University, and Arizona State University, among others."
-What were the department's placement statistics for the 2020-24 batch?,"Placement rate: 98%, Average Package: â‚¹4.86 LPA, Highest Package: â‚¹18 LPA."
+What were the department's placement statistics for the 2020-24 batch?,"Placement rate: 98%, Average Package: ?4.86 LPA, Highest Package: ?18 LPA."
 What are the student outcomes expected in ICT graduates?,"Outcomes include applying mathematics and ICT knowledge, mastering computing tools, analyzing complex problems, working in multidisciplinary teams, designing socio-economic solutions, and understanding business practices in engineering."
 What is the overall placement rate for the 2017-21 batch?,97%.
 What are some of the career options in ICT?,"Roles include Systems Engineer, Solutions Specialist, Product Engineer, Software QA Analyst, System Architect, Data Analyst, IoT Solutions Specialist, Cyber Security Expert, and Embedded Systems Developer."
@@ -308,24 +308,24 @@ What are the international collaborations of the ICT department?,"Collaborations
 What awards and recognitions have ICT faculty and students received?,"Awards include leadership in community project-based learning, hackathon prizes, Best Research Author Award, and recognition in national and international competitions like MYOSA and IEEE contests."
 What are the career opportunities for ICT engineers?,"Careers include roles in software development, data analytics, AI/ML, embedded systems, IoT, network and security, robotics, cloud computing, and VLSI chip design."
 What facilities are provided in the ICT department's laboratories?,"Labs include VLSI Lab, Data Science & AI Lab, Web Development Lab, Computer Networks & Security Lab, IoT Lab, and Programming Lab."
-What is the highest package received by ICT graduates from the 2020-24 batch?,â‚¹18 LPA.
+What is the highest package received by ICT graduates from the 2020-24 batch?,?18 LPA.
 What types of international exposure are provided to ICT students?,"Opportunities include internships, exchange programs, and collaborations with universities like University of British Columbia, Simon Fraser University, and Arizona State University."
 How are outcome-based assessment methods implemented in the ICT department?,"Methods include open-book tests, projects, case studies, blog writing, MOOC certifications, practical exams, and research paper reviews."
 What is the message from the ICT department's HoD?,"The HoD emphasizes creating next-gen engineers, promoting hands-on and interdisciplinary learning, and developing industry-relevant programs to shape world leaders."
 What skills are taught in the Competitive Programming Club?,"Skills include C, C++, Java, Data Structures, Algorithms, Serverless Computing, and DevOps on AWS."
 What are the major domains of specialization offered in ICT?,"Domains include AI/ML, IoT, VLSI Design, Cloud Computing, Software Development, Embedded Systems, and Cybersecurity."
 What is the significance of the Param Shavak supercomputer at Marwadi University?,"It enhances research and computation capabilities in AI, ML, and ICT engineering, aiding students and faculty in high-end research projects."
-What is the vision of the Department of Information and Communication Technology (ICT)?,"To build studentsâ€™ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
+What is the vision of the Department of Information and Communication Technology (ICT)?,"To build students’ capacity through quality education that enables them to address the problems of industries and society, and to become contributors."
 What is the mission of the ICT department?,"The mission includes project-based learning, blended teaching and assessment, exposure to various domains, and industry interaction to make students industry-ready."
 Who is the HoD of the ICT department?,The HoD of the ICT department is Mr. Chandrasinh Parmar.
 What is the HoD's message to the students and stakeholders?,"The HoD emphasizes creating next-gen engineers, promoting hands-on and interdisciplinary learning, and developing industry-relevant programs to shape world leaders."
 What are the core subjects in Semester 1 of the B.Tech ICT program?,"Differential and Integral Calculus, Electrical Circuits, Basics of Electronics Engineering, Reading and Writing for Technology, Introduction to Computer Programming, Foundation Skills in Sensor Interfacing, ICT Workshop."
 How many assistant and associate professors are there in the ICT department?,The department has 14 assistant professors and 4 associate professors.
-What are the credit requirements for B.Tech batches before and after 2021?,2017â€“2020 Entry Batch: 180â€“183 credits; 2021 onwards Entry Batch: 160â€“163 credits.
+What are the credit requirements for B.Tech batches before and after 2021?,2017–2020 Entry Batch: 180–183 credits; 2021 onwards Entry Batch: 160–163 credits.
 What skills are targeted by the Data Science Club?,"Data Visualization, Statistical Analysis, R, Python, SQL, and Data Mining."
 What is the scope of ICT Engineers?,"Fields include Embedded Hardware/Software, VLSI Design, IoT, AI/ML, Data Analytics, Cloud Computing, DevOps, Networks and Security, and Software Development."
 What are the international research internship opportunities mentioned in the document?,"Students had internships with professors from institutions such as University of British Columbia, Simon Fraser University, and Arizona State University, among others."
-What were the department's placement statistics for the 2020-24 batch?,"Placement rate: 98%, Average Package: â‚¹4.86 LPA, Highest Package: â‚¹18 LPA."
+What were the department's placement statistics for the 2020-24 batch?,"Placement rate: 98%, Average Package: ?4.86 LPA, Highest Package: ?18 LPA."
 What are the student outcomes expected in ICT graduates?,"Outcomes include applying mathematics and ICT knowledge, mastering computing tools, analyzing complex problems, working in multidisciplinary teams, designing socio-economic solutions, and understanding business practices in engineering."
 What is the overall placement rate for the 2017-21 batch?,97%.
 What are some of the career options in ICT?,"Roles include Systems Engineer, Solutions Specialist, Product Engineer, Software QA Analyst, System Architect, Data Analyst, IoT Solutions Specialist, Cyber Security Expert, and Embedded Systems Developer."

@@ -10,7 +10,7 @@ HF_TOKEN     = os.environ.get("FAQ")
 BASE_MODEL   = os.environ.get("BASE_MODEL",   "unsloth/Phi-3-mini-4k-instruct-bnb-4bit")
 LORA_ADAPTER = os.environ.get("LORA_ADAPTER", "TechAvenger/MyFaqSolver")
 
-MAX_NEW_TOKENS = 512
+MAX_NEW_TOKENS = 128
 
 if HF_TOKEN:
     login(token=HF_TOKEN)
